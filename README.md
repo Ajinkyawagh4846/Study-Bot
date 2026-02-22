@@ -193,7 +193,7 @@ This means if you ask "What is Newton's First Law?" and then follow up with "Can
 
 This project is deployed on **Render**.
 
-**Live API:** `[Your Render URL here]`
+**Live API:** `[https://ai-study-bot-u4tt.onrender.com/]`
 
 **Environment variables set on Render:**
 - `GROQ_API_KEY` — Groq API key
@@ -211,8 +211,3 @@ uvicorn main:app --host 0.0.0.0 --port $PORT
 **Ajinkya Wagh**  
 Built as part of the **Devtown AI Development Workshop**
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
