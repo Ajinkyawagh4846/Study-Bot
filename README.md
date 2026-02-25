@@ -14,7 +14,7 @@
 
 ## 📖 About the Project
 
-**Study Bot** is a REST API-based AI study assistant built as part of the Devtown AI Workshop project. It leverages large language models (LLMs) via the Groq API to provide fast, intelligent responses to student questions across any academic subject.
+The **Study Bot** is a REST API-based AI study assistant built as part of the Devtown AI Workshop project. It leverages large language models (LLMs) via the Groq API to provide fast, intelligent responses to student questions across any academic subject.
 
 What makes it special is its **memory system** — every conversation is stored in MongoDB, so the bot remembers what you've previously discussed and gives context-aware responses, just like a real tutor would.
 
